@@ -9,7 +9,7 @@
 >git code
 git status
 ``````
-~~Strikethrough~~
+~~Strikethrough~~ /n
 **Bold**
 _Italicized_
 ***Bold and Italicized***
