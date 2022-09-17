@@ -12,11 +12,19 @@ git status
 ~~Strikethrough~~ 
 
 **Bold**
+
 _Italicized_
+
 ***Bold and Italicized***
+
 Subscript<sub>subscript</sub>
+
 Superscript<sup>superscript</sup>
+
 HEX '#0969DA`
+
 RGB	`rgb(9, 105, 218)`
+
 HSL	`hsl(212, 92%, 45%)`
+
 > Quote
